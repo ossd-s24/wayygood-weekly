@@ -39,9 +39,9 @@ Replace the first row with your own contribution.
 | May 5   | [link](https://github.com/software-students-fall2023/5-final-project-pusheen/pull/21)      | github repo    | I added CSS style to the site.     |
 | May 5   | [link](https://ossd-s24.github.io/skylar-mo-weekly/)      | student blog   | Fixed the spelling errors in Post 14.     |
 | May 5   | [link](https://ossd-s24.github.io/ahmed-o-324-weekly/)      | student blog   |  I added the student's footer links.    |
-| May 5   | [link]()      | openstreetmap  |      |
-| May 6   | [link]()      | openstreetmap  |      |
-| May 6   | [link]()      | openstreetmap  |      |
-| May 6   | [link]()      | openstreetmap  |      |
-| May 6   | [link]()      | openstreetmap  |      |
+| May 5   | [link](https://www.openstreetmap.org/changeset/150948639#map=19/40.80973/-74.26025)      | openstreetmap  | new building added     |
+| May 6   | [link](https://www.openstreetmap.org/changeset/150948587)      | openstreetmap  | new building added     |
+| May 6   | [link](https://www.openstreetmap.org/changeset/150948533#map=19/40.80952/-74.26033)      | openstreetmap  | new building added     |
+| May 6   | [link](https://www.openstreetmap.org/changeset/150948312)      | openstreetmap  | building information updated     |
+| May 6   | [link](https://www.openstreetmap.org/changeset/150948190#map=19/40.69877/-73.93533)      | openstreetmap  | building information updated     |
 
