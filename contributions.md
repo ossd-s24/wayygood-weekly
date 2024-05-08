@@ -37,11 +37,14 @@ Replace the first row with your own contribution.
 | May 5   | [link](https://github.com/edrickhong/Cu_std/pull/6)      | github repo    |  Added a component file with multiple useful sorting algorithms.    |
 | May 5   | [link](https://github.com/ossd-s24/weathermen/pull/4)      | github repo    |  I added unit testing for the app.    |
 | May 5   | [link](https://github.com/software-students-fall2023/5-final-project-pusheen/pull/21)      | github repo    | I added CSS style to the site.     |
-| May 5   | [link](https://ossd-s24.github.io/skylar-mo-weekly/)      | student blog   | Fixed the spelling errors in Post 14.     |
-| May 5   | [link](https://ossd-s24.github.io/ahmed-o-324-weekly/)      | student blog   |  I added the student's footer links.    |
+| May 5   | [link](https://github.com/ossd-s24/skylar-mo-weekly/pull/1)      | student blog   | Fixed the spelling errors in Post 14.     |
+| May 5   | [link](https://ossd-s24.github.io/ahmed-o-324-weekly/pull/1)      | student blog   |  I added the student's footer links.    |
 | May 5   | [link](https://www.openstreetmap.org/changeset/150948639#map=19/40.80973/-74.26025)      | openstreetmap  | new building added     |
 | May 6   | [link](https://www.openstreetmap.org/changeset/150948587)      | openstreetmap  | new building added     |
 | May 6   | [link](https://www.openstreetmap.org/changeset/150948533#map=19/40.80952/-74.26033)      | openstreetmap  | new building added     |
 | May 6   | [link](https://www.openstreetmap.org/changeset/150948312)      | openstreetmap  | building information updated     |
 | May 6   | [link](https://www.openstreetmap.org/changeset/150948190#map=19/40.69877/-73.93533)      | openstreetmap  | building information updated     |
+| May 8   | [link](https://github.com/joannakl/ossd/pull/134)      | class website  | minor date fix     |
+
+
 
