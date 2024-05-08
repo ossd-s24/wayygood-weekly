@@ -22,7 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
 | May 4   | [link](https://en.wikipedia.org/w/index.php?title=Avenues_Television&editingStatsId=d1iqrtjthv4r5g6do3i8p0h3tn17hj3p&editingStatsOversample=1&gesuggestededit=1)    | wikipedia            |  Grammar/Punctuation fixes.          |
 | May 4   | [link](https://en.wikipedia.org/w/index.php?title=Maurice_Green_%28virologist%29&editingStatsId=sv60n23kaueqapitljidgbnv6986ki66&editingStatsOversample=1&gesuggestededit=1)      | wikipedia      |  Grammer/punctuation fixes.   |
 | May 4   | [link](https://en.wikipedia.org/w/index.php?title=Semantic_spectrum&editingStatsId=4e5d5af7e60be7cd40bd&editingStatsOversample=1&gesuggestededit=1)      | wikipedia      |   Added source   |
